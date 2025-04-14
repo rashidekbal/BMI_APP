@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="title">BMI calculator</string>
+    <string name="logo_disc">This is a logo</string>
+    <string name="age_hint">eg.25</string>
+    <string name="height_hint">eg.104</string>
+    <string name="weight_hint">eg.55</string>
+    <string name="age_title">Age</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calculate_text">Calculate</string>
+    <string name="fat">Fat</string>
+    <string name="ideal_weight">IDEAL WEIGTH</string>
+    <string name="bmi">BMI</string>
+    <string name="bmi_classification_heading">BMI CLASSIFICATION:-</string>
+    <string name="underWeight"><![CDATA[< 16]]></string>
+    <string name="very_severely_underweight">Very UnderWeight  </string>
+    <string name="severely_underweight">Severely UnderWeight</string>
+    <string name="_16_17">16 - 17</string>
+    <string name="normal">Normal</string>
+    <string name="_18_5_25">18.5 - 25</string>
+    <string name="_25_30">25 - 30</string>
+    <string name="_17_18_5">17 - 18.5</string>
+    <string name="_40"><![CDATA[> 40]]></string>
+    <string name="_35_40">35 - 40</string>
+    <string name="_30_35">30 - 35</string>
+    <string name="initial_bmi">0</string>
+    <string name="initial_ideal_weight">0kg</string>
+    <string name="initial_fat">0.0%</string>
+</resources>
