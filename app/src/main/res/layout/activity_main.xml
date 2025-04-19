@@ -98,7 +98,7 @@
                         android:layout_height="47dp"
                         android:layout_marginStart="35dp"
                         android:contentDescription="@string/logo_disc"
-                        android:src="@drawable/baseline_emoji_emotions_24" />
+                        android:src="@drawable/number" />
 
                 </LinearLayout>
                 <!-- row two -->
@@ -138,7 +138,7 @@
                         android:layout_height="47dp"
                         android:layout_marginStart="35dp"
                         android:contentDescription="@string/logo_disc"
-                        android:src="@drawable/baseline_emoji_emotions_24" />
+                        android:src="@drawable/cm" />
 
                 </LinearLayout>
                 <!-- row three -->
@@ -176,7 +176,7 @@
                         android:layout_height="47dp"
                         android:layout_marginStart="35dp"
                         android:contentDescription="@string/logo_disc"
-                        android:src="@drawable/baseline_emoji_emotions_24" />
+                        android:src="@drawable/kg" />
 
                 </LinearLayout>
 
